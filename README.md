@@ -72,48 +72,48 @@ A star schema was implemented, with the Events table serving as the fact table a
 -	Do annual plans bring higher revenue per customer than monthly plans?
 -	Which add-ons are most often bought with core products (attach rate)?
 ## Insights
-1️. Revenue Performance
+1. Revenue Performance
 
-    Revenue grew from $4.29M (2024) to $5.09M (2025), driven by strong mid-year sales. Q2–Q3 remain the core revenue engine, while early-year and late-year months underperform.
+   Revenue grew from $4.29M (2024) to $5.09M (2025), driven by strong mid-year sales. Q2–Q3 remain the core revenue engine, while early-year and late-year months underperform.
+
+   In 2025, Q1 rebounded strongly, Q2 became the peak quarter, and Q4 collapsed, signaling changing seasonality and the need for improved late-year marketing or retention strategies.
+
+   June consistently emerged as the top month, highlighting mid-year as the critical period for acquisition and retention.
+
+2. Pricing & Volume Synergy
+
+   ASP +3.54% and Quantity Sold +14.40% in 2025 indicate a strong price-volume growth synergy.
+
+   Customers are willing to pay more while buying more units, demonstrating both high perceived value and robust demand.
+
+3. Billing Cycle and Discount Strategy
+   Annual Plans dominate with over $8.2M, confirming the effectiveness of long-term, high-value commitments for cash flow and revenue stability.
+
+   Monthly Plans ($853K) and One-Time Plans ($256K) contribute less, mainly providing flexible entry points.
+
+   Discount Codes: Annual-plan codes have similar redemption volumes as monthly codes but generate far greater revenue impact. Monthly-plan codes are high-volume, low-return, opportunities to reduce discount depth and boost margins without hurting adoption. 
     
-    In 2025, Q1 rebounded strongly, Q2 became the peak quarter, and Q4 collapsed, signaling changing seasonality and the need for improved late-year marketing or retention strategies.
-    
-    June consistently emerged as the top month, highlighting mid-year as the critical period for acquisition and retention.
-
-2️. Pricing & Volume Synergy
-
-    ASP +3.54% and Quantity Sold +14.40% in 2025 indicate a strong price-volume growth synergy.
-   
-    Customers are willing to pay more while buying more units, demonstrating both high perceived value and robust demand.
-
-3️. Billing Cycle and Discount Strategy
-
-    Annual Plans dominate with over $8.2M, confirming the effectiveness of long-term, high-value commitments for cash flow and revenue stability.
-    
-    Monthly Plans ($853K) and One-Time Plans ($256K) contribute less, mainly providing flexible entry points.
-
-    Discount Codes: Annual-plan codes have similar redemption volumes as monthly codes but generate far greater revenue impact. Monthly-plan codes are high-volume, low-return, opportunities to reduce discount depth and boost margins without hurting adoption. 
-    
-    One-time codes have minimal impact, indicating discounts aren’t key drivers.
+   One-time codes have minimal impact, indicating discounts aren’t key drivers.
 
 4. Customer Loyalty & Segmentation
 
-    99.83% of customers return for at least a second purchase.
+   99.83% of customers return for at least a second purchase.
 
-    Consumer segment dominates, with Consumer and SOHO together contributing over 78% of total revenue, confirming a primarily B2C-driven business.
+   Consumer segment dominates, with Consumer and SOHO together contributing over 78% of total revenue, confirming a primarily B2C-driven business.
 
-    Developer and Design Tools have universal appeal across segments, forming the core product growth drivers.
+   Developer and Design Tools have universal appeal across segments, forming the core product growth drivers.
 
-6. Vendor & Product Focus
+5. Vendor & Product Focus
 
-    Microsoft ($2.99M) is the largest revenue driver, followed by AI Tools ($1.62M) and Adobe.
+   Microsoft ($2.99M) is the largest revenue driver, followed by AI Tools ($1.62M) and Adobe.
+ 
+   Top revenue comes from annual subscriptions of Microsoft 365, Azure AI, and creative tools; reinforcing the Annual Plan strategy.
+   
+6. Acquisition Channels & Loyalty
 
-    Top revenue comes from annual subscriptions of Microsoft 365, Azure AI, and creative tools; reinforcing the Annual Plan strategy.
+   Organic acquisition drives the highest long-term loyalty, followed by Paid Search and Social.
 
-7. Acquisition Channels & Loyalty
-
-    Organic acquisition drives the highest long-term loyalty, followed by Paid Search and Social.
-     Retail Media contributes the least to repeat purchases.
+   Retail Media contributes the least to repeat purchases.
 
 
 
