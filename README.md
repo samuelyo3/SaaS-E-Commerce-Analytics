@@ -1,4 +1,4 @@
-# SaaS-E-Commerce-Analytics
+# SaaS-E-Commerce-Analysis
 ## Introduction
 This project analyzes customer behaviour, and revenue performance for a software retail company offering subscription-based digital products such as Tableau Creator, Zendesk Suite, Figma Professional, and Microsoft 365 plans. The analysis covers years 2024 and 2025, with a goal of uncovering key insights that can support smarter marketing allocation, better pricing decisions, improved customer retention, and stronger revenue strategy.
 ## Dataset
